@@ -7,3 +7,11 @@ img {
 div{
      color: white;
 }
+h1{
+    font: bold;
+    text-align: center;
+    font-style: oblique;
+}
+h2{
+    font: bolder;
+}
