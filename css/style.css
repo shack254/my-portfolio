@@ -4,14 +4,21 @@ img {
     top: 0px;
     z-index: -1;
   }
-div{
+.container{
      color: white;
 }
 h1{
     font: bold;
     text-align: center;
     font-style: oblique;
+    color: blanchedalmond
 }
 h2{
-    font: bolder;
+    font: bold;
+    color: aqua;
+
+}
+h3{
+  font: caption;
+  color: purple
 }
