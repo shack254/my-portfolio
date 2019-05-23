@@ -4,6 +4,17 @@
     top: 0px;
     z-index: -1;
   }
+.me{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%
+}
+.round{
+    display: inline;
+    margin: 0 auto;
+  }
 .container{
      color: white;
 }
@@ -14,9 +25,9 @@ h1{
     color: blanchedalmond
 }
 h2{
-    font: bold;
-    color: aqua;
-
+  font: bold;
+  color: aqua;
+  position: relative; left: 100px;
 }
 h3{
   font: caption;
