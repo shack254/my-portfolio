@@ -34,3 +34,16 @@ h2{
     font-weight: 600;
     font-family: Verdana;
 }
+.me{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    float: right;
+    bottom: 200px
+}
+round{
+    display: inline;
+    margin: 0 auto;
+  }
