@@ -47,3 +47,6 @@ round{
     display: inline;
     margin: 0 auto;
   }
+  .game{
+      position: relative;
+}
