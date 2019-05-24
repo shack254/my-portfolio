@@ -47,9 +47,6 @@ h2{
     display: inline;
     margin: 0 auto;
 }
-figcaption{
-    font-size: 40px;
-}
-.vid{
+article{
     float: left;
 }
