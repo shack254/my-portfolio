@@ -43,10 +43,13 @@ h2{
     float: right;
     bottom: 200px
 }
-round{
+.round{
     display: inline;
     margin: 0 auto;
-  }
-  .game{
-      position: relative;
+}
+figcaption{
+    font-size: 40px;
+}
+.vid{
+    float: left;
 }
