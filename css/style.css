@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    overflow-x: hidden;
 }
 .img{
     position: absolute;
@@ -34,19 +35,32 @@ h2{
     font-weight: 600;
     font-family: Verdana;
 }
-.me{
+.me img{
     width: 200px;
     height: 200px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
     float: right;
-    bottom: 200px
+    bottom: 200px;
 }
 .round{
-    display: inline;
+    display: ruby-text;
     margin: 0 auto;
 }
 article{
     float: left;
+}
+figcaption{
+    font-size: 20px;
+    padding: 7pt;
+    background: #00ff00;
+    text-align: center;
+}
+.t{
+    float: right;
+    position: relative;
+    left:144px;
+    bottom: 247px;
+    border-radius: 100%
 }
