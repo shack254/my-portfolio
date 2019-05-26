@@ -34,7 +34,8 @@ h2{
     overflow: hidden;
     border-radius: 50%;
     float: right;
-    bottom: 17cm
+    bottom: 20cm;
+    left: 500px;
 }
 .round{
     display: ruby-text;
