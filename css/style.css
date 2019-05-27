@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #add2eb;
     overflow-x: hidden;
 }
 .img{
@@ -19,7 +19,8 @@ body{
 .contain{
     position: relative;
     top: 148px;
-    color: 	rgb(238, 235, 232)
+    color: 	gray
+    font-size: 12pt
 }
 h2{
     color: #00ff00;
@@ -56,4 +57,7 @@ figcaption{
     left:144px;
     bottom: 247px;
     border-radius: 100%
+}
+footer{
+    bottom: 0pt
 }
